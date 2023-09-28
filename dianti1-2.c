@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<math.h>
 int main()
-d
 {
 	FILE* fp;
 	errno_t err = fopen_s(&fp, ".\\shuju.dat", "r");
